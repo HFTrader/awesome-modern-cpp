@@ -174,8 +174,9 @@ C++ Benchmark Authoring Library/Framework.
 * [SPSCQueue](https://github.com/rigtorp/SPSCQueue) - A bounded single-producer single-consumer wait-free and lock-free queue written in C++11.
 * [Threading Building Blocks](https://www.threadingbuildingblocks.org/) - Threading Building Blocks (TBB) is a C++ template library developed by Intel for parallel programming on multi-core processors. Using TBB, a computation is broken down into tasks that can run in parallel. The library manages and schedules threads to execute these tasks.
 * [execq](https://github.com/Alkenso/execq) - Smart queue that executes tasks in threadpool-like manner (serial / concurrent) in C++11.
+* [concurrencpp](https://github.com/David-Haim/concurrencpp) - A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.
 
-### Serialization
+### Parsing & Serialization
 
 * [json](https://github.com/nlohmann/json) 🥇 - JSON for Modern C++.
 * [jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
@@ -186,6 +187,7 @@ C++ Benchmark Authoring Library/Framework.
 * [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization.
 * [simdjson](https://github.com/lemire/simdjson) - Accelerate the parsing of JSON per se using commonly available SIMD instructions
 * [Boost.JSON](https://github.com/CPPAlliance/json) - A JSON library with robust support for custom allocators.
+* [hjson-cpp](https://github.com/hjson/hjson-cpp) - A C++11 library for reading and writing Hjson and/or JSON files.
 
 ### String formatting & templating
 
